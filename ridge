@@ -1,0 +1,14 @@
+<script>
+  var widgetApp = "calendar";
+  var widgetLanguage = "en";
+  var widgetSize = 0;
+  var widgetMainBg = "F0EBEB";
+  var widgetText = "000000";
+  var widgetBorder = "4";
+  var widgetStyle = "outset";
+  var widgetRadius = "19";
+  var widgetGmtBg = "ffffff";
+  var widgetGmtColor = "000000";
+  var widgetRetro = "b";
+</script>
+<script src="https://astro-app.net/js/widget.js"></script>
